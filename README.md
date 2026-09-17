@@ -21,22 +21,22 @@ Ecco una selezione dei progetti sviluppati durante il mio percorso accademico:
 #### 🧠 1. Classificazione di Demenza da Immagini MRI
 * **Descrizione:** Pipeline di Machine Learning / Computer Vision in Python per l'addestramento di un modello di IA finalizzato alla classificazione di pazienti dementi e sani a partire da immagini di risonanza magnetica cerebrale.
 * **Tech Stack:** Python
-* 👉 *In arrivo / Collegamento alla repository*
+* 👉  https://github.com/AlessioMarmo/brain-mri-radiomics-analysis
 
 #### 🩺 2. Classificazione di Pazienti Diabetici (Machine Learning Classico)
 * **Descrizione:** Script di machine learning per l'analisi esplorativa (EDA), la pulizia dei dati e la classificazione di pazienti basata su dataset clinici strutturati.
 * **Tech Stack:** Python, Pandas, Scikit-learn, Searborn, Matplotlib
-* 👉 *In arrivo / Collegamento alla repository*
+* 👉  https://github.com/AlessioMarmo/diabetes-patient-classification
 
 #### 🏥 3. Simulazione del Processo di Trapianto di Cuore (Process Simulation)
 * **Descrizione:** Modellazione e simulazione a eventi discreti di un percorso clinico critico per analizzare flussi, colli di bottiglia e ottimizzare la gestione delle risorse ospedaliere.
 * **Tech Stack:** Simul8, Analisi di processo
-* 👉 *In arrivo / Documentazione*
+* 👉  https://github.com/AlessioMarmo/-healthcare-transplant-information-system
 
 #### 🌐 4. Progettazione di Reti Ospedaliere (IoT & Security)
 * **Descrizione:** Simulazione di un'infrastruttura di rete sicura orientata all'Internet of Medical Things (IoMT), con segmentazione in VLAN per la separazione del traffico clinico e ospedaliero.
 * **Tech Stack:** Cisco Packet Tracer, Networking basics
-* 👉 *In arrivo / Collegamento alla repository*
+* 👉  https://github.com/AlessioMarmo/-healthcare-transplant-information-system
 
 ---
 
