@@ -50,4 +50,5 @@ Ecco una selezione dei progetti sviluppati durante il mio percorso accademico:
 ---
 
 ### 📫 Come contattarmi
-* **LinkedIn:** [Il tuo profilo LinkedIn](#) *(lo collegheremo presto!)*
+LinkedIn : https://www.linkedin.com/in/alessio-marmo01/
+
