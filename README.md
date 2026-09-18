@@ -41,11 +41,11 @@ Ecco una selezione dei progetti sviluppati durante il mio percorso accademico:
 ---
 
 ### 📜 Certificazioni & Corsi
-
 * **Core MATLAB Skills (Credenziale e Certificato Digitale)** – *MathWorks* (Competenze avanzate e certificate di calcolo scientifico)
 * **Machine Learning Onramp** – *MathWorks* (Fondamenti di Machine Learning in ambiente MATLAB)
 * **Corsi Specialistici MATLAB (Vettori, Matrici, Plot & Data Analysis)** – *MathWorks*
 * **Intro to Machine Learning & Pandas** – *Kaggle* (Manipolazione dati con Pandas e algoritmi predittivi di base)
+* **Data Cleaning** – *Kaggle* (Gestione valori mancanti, formati date, character encoding e fuzzy matching)
 
 ---
 
